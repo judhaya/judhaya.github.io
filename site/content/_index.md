@@ -1,20 +1,33 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Therapy Help Center, Chiang Mai
+subtitle: An Unlicensed Operation
+image: img/70310484_2306224416256913_557679259749974016_n.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Please Be Warned
+  text: Numerous clients of the unlicensed Therapy Help Center operating from Mu
+    Ban Ing Doi have reported very bad outcomes resulting from their work with
+    the therapist there.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Over-Diagnosis Over-Prescription
+  text: Although the therapist here is in no way qualified to make psychiatric
+    diagnoses or indeed to prescribe drugs he works closely with a psychiatrist.
+    Heartbreakingly, many people who have gone to this therapy centre for help
+    with relatively minor complaints have come away with inappropriate very
+    serious diagnoses and very strong drugs.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  - image: img/70891081_399910380885240_325535079105298432_n.jpg
+    text: Many people have found the therapist here very understanding, persuasive
+      and even helpful at first, but have found the help he has given has been
+      undone by very frequent over-treatment of non-existent conditions.
+  - image: img/70310484_2306224416256913_557679259749974016_n.jpg
+    text: Wishing everyone the best of health. If you have doubts about the
+      treatment you have received at the Therapy Help Center or are thinking
+      about seeing the therapist there we urge you to talk to other therapists
+      first. Perhaps one in Chiang Mai or in another area. You will find that
+      lots of therapists in Chiang Mai have dealt with the fall out from this
+      center and are willing and/or able to talk about it to varying degrees.
+      You can also get in touch with us through the contact link above. We are a
+      group of ex-clients who have felt very badly served by this centre.
+      Unfortunately, it seems that more and more mistreatment is coming to light
+      all the time. Best wishes!!
 ---
-
