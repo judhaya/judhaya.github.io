@@ -1,7 +1,7 @@
 ---
 title: Therapy Help Center, Chiang Mai
 subtitle: An Unlicensed Operation
-image: img/70310484_2306224416256913_557679259749974016_n.jpg
+image: img/therapyhelpcenter1.jpg
 blurb:
   heading: Please Be Warned
   text: Numerous clients of the unlicensed Therapy Help Center operating from Mu
@@ -15,11 +15,11 @@ intro:
     with relatively minor complaints have come away with inappropriate very
     serious diagnoses and very strong drugs.
 products:
-  - image: img/70891081_399910380885240_325535079105298432_n.jpg
+  - image: img/pills.jpg
     text: Many people have found the therapist here very understanding, persuasive
       and even helpful at first, but have found the initial help he has given
       has been undone by over-treatment of non-existent conditions.
-  - image: img/70310484_2306224416256913_557679259749974016_n.jpg
+  - image: img/therpayhelpcenter2.jpg
     text: Wishing everyone the best of health. If you have doubts about the
       treatment you have received at the Therapy Help Center or are thinking
       about seeing the therapist there we urge you to talk to other therapists
