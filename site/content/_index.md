@@ -10,15 +10,17 @@ blurb:
 intro:
   heading: Over-Diagnosis Over-Prescription
   text: Although the therapist here is in no way qualified to make psychiatric
-    diagnoses or indeed to prescribe drugs he works closely with a psychiatrist.
-    Heartbreakingly, many people who have gone to this therapy centre for help
-    with relatively minor complaints have come away with inappropriate very
-    serious diagnoses and very strong drugs.
+    diagnoses or indeed to prescribe drugs he works closely with a psychiatrist
+    and is improperly involved in the diagnosis of conditions and prescription
+    of drugs. Heartbreakingly, many people who have gone to this therapy centre
+    for help with relatively minor complaints have come away with inappropriate
+    very serious diagnoses and very strong drugs.
 products:
   - image: img/pills.jpg
     text: Many people have found the therapist here very understanding, persuasive
       and even helpful at first, but have found the initial help he has given
-      has been undone by over-treatment of non-existent conditions.
+      has been undone by over-treatment of fairly common conditions as if they
+      were much more serious mental dysfunction.
   - image: img/therpayhelpcenter2.jpg
     text: Wishing everyone the best of health. If you have doubts about the
       treatment you have received at the Therapy Help Center or are thinking
